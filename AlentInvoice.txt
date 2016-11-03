@@ -1,0 +1,200 @@
+1                                                           Default Company                          Page Number-            1 P FSOI                                                             H01_01
+                                                             I N V O I C E                           Date       -     01/29/16 01/29/16
+                                                                                                     Customer   -     21302219 21302219
+                                                                                                     Brn/Plt    -       SAACRF
+                                                                                                     Related PO -
+                                                                                                     Order Nbr  -  62100022 CA
+                                                                                                     Invoice    -  62100018 RM
+0          Sold To:  BENCHMARK ELECTRONICS (MALAYSIA) SDN BHD          Ship To:  BENCHMARK ELECTRONICS (MALAYSIA) SDN BHD                         WONG YUEN KWAN
+                     FIZ Phase 1, 11900 Bayan Lepas,                             FIZ Phase 1, 11900 Bayan Lepas,
+                     11900                                                       11900
+                     Penang                                                      Penang
+                     Malaysia                                                    Malaysia
+0                    MALAYSIA                                                    MALAYSIA
+                                                                                                                                                  USD                  USD USD USD
+0          Tax ID:
+           Tax Cert:                                                             30 DAYS NET                    02/28/16           21202037                                    .
+   ------------------------------------------------------------------------------------------------------------------------        NEOH GUAT TIN, MICHELLE
+     Request Date          Customer P.O.                    F.O.B.              Ship :  36319110000D     *30DAYS                                  Malaysia
+       01/29/16      PPM117543                  Free Carrier                    Inst :  MN BY ROAD                                                SYWONG
+   ------------------------------------------------------------------------------------------------------------------------
+   Ln/Rq Dt     Description                       Item Number        UM Ship/Back/Cance      Price      Extended Price  Tax  Extended Cost  Pct
+   -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- --- --------------- ------
+            LS-500A Wave Solder Flux   5GL 148842-0005               GL         80.000-        21.2000        1,696.00-  Y                    100                                                 D01_01
+                                                                                                                                                                           16.000- CN
+                                           PN: BEI0005405                                                                                                                                         D01_03
+                                           1010479                   ** OLD JDE# 1010479 **                                                                                                       D01_03
+            LS-500A Wave Solder Flux   5GL 148842-0005               GL         80.000         20.7760        1,662.08   Y                    100                                                 D01_01
+                                                                                                                                                                           16.000  CN
+                                           PN: BEI0005405                                                                                                                                         D01_03
+                                           1010479                   ** OLD JDE# 1010479 **                                                                                                       D01_03
+   .                                                                                                                                                                                              D03_01
+   REMARK:                                                                                                                                                                                        D03_01
+   BEING 2% REBATE FOR EARLY PAYMENT OF INV#52102241RI.                                                                                                                                           D03_01
+   FOR INTERNAL PURPOSE ONLY.                                                                                                                                                                     D03_01
+-
+-
+-
+-
+-
+-
+-
+-
+                                                                                            Sales Tax      Total Order                                                                            T05_01
+   ------------------------------------------------------------------------------------------------------------------------
+  Terms  30 DAYS NET                     Net D.Dt 02/28/16             Tax Rt   .000              .00            33.92-                                USD                             USD
+                                                                                                                                                                                                  T05_03
+1                                                           Default Company                          Page Number-            1 P FSOI                                                             H01_01
+                                                             I N V O I C E                           Date       -     02/05/16 02/05/16
+                                                                                                     Customer   -     21302969 21302969
+                                                                                                     Brn/Plt    -       SAAPRF
+                                                                                                     Related PO -
+                                                                                                     Order Nbr  -  62100025 CA
+                                                                                                     Invoice    -  62100020 RM
+0          Sold To:  KAIFA TECHNOLOGY MALAYSIA SDN BHD                 Ship To:  KAIFA TECHNOLOGY MALAYSIA SDN BHD                                YAP LEE CHENG, WINNIE
+                     No.6 Jalan Istimewa 2                                       No.6 Jalan Istimewa 2
+                     Taman Perindustrian Cemerlang                               Taman Perindustrian Cemerlang
+                     81800 Ulu Tiram                                             81800 Ulu Tiram
+0                    MALAYSIA                                                    MALAYSIA
+0                                                                                                                                                 USD                  USD USD USD
+0          Tax ID:
+           Tax Cert:                                                             30 DAYS NET                    03/06/16           21202259                                    .
+   ------------------------------------------------------------------------------------------------------------------------        RAVI GOVINDARAJU
+     Request Date          Customer P.O.                    F.O.B.              Ship :                                                            Malaysia
+       02/11/16      4500343688                 EXW SINGAPORE                   Inst :                                                            SWYAP
+   ------------------------------------------------------------------------------------------------------------------------
+   Ln/Rq Dt     Description                       Item Number        UM Ship/Back/Cance      Price      Extended Price  Tax  Extended Cost  Pct
+   -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- --- --------------- ------
+            CNP OM300  771 88.5-4-M15 JAR  158419                    KG        700.000-        67.4800       47,236.00-  Y                    100                                                 D01_01
+                                                                                                                                                                         1400.000- EA
+            96.5SN/3.0AG/0.5CU      0.50KG                                                                                                                                                        D01_02
+                                           F11-00009-01                                                                                                                                           D01_03
+                                           158419                    ** OLD JDE# 158419 **                                                                                                        D01_03
+   ALPHA OM-300 Solder Paste 96.5SN/3.0AG/0.5CU 88.5-4-M15 JAR/0.50KG                                                                                                                             D03_01
+            CNP OM300  771 88.5-4-M15 JAR  158419                    KG        700.000         67.1800       47,026.00   Y                    100                                                 D01_01
+                                                                                                                                                                         1400.000  EA
+            96.5SN/3.0AG/0.5CU      0.50KG                                                                                                                                                        D01_02
+                                           F11-00009-01                                                                                                                                           D01_03
+                                           158419                    ** OLD JDE# 158419 **                                                                                                        D01_03
+   ALPHA OM-300 Solder Paste 96.5SN/3.0AG/0.5CU 88.5-4-M15 JAR/0.50KG                                                                                                                             D03_01
+   .                                                                                                                                                                                              D03_01
+   REBATE OF USD0.30 PER KG GIVEN FOR EVERY FULL QTY DELIVERY                                                                                                                                     D03_01
+   OF 700KG MADE ( AS PER AGREED BTW KAIFA & ALPHA) .                                                                                                                                             D03_01
+-
+-
+-
+-
+-
+-
+-
+                                                                                            Sales Tax      Total Order                                                                            T05_01
+   ------------------------------------------------------------------------------------------------------------------------
+  Terms  30 DAYS NET                     Net D.Dt 03/06/16             Tax Rt   .000              .00           210.00-                                USD                             USD
+                                                                                                                                                                                                  T05_03
+1                                                           Default Company                          Page Number-            1 E FSOI 21301728 CASCPYDTA                                          H01_01
+                                                             I N V O I C E                           Date       -     02/25/16 02/25/16
+                                                                                                     Customer   -     21301728 21301728
+                                                                                                     Brn/Plt    -       SAAPRF
+                                                                                                     Related PO -
+                                                                                                     Order Nbr  -  62100028 CA
+   *THIS INVOICE HAS BEEN EMAILED TO YOUR A/P DEPARTMENT*                                            Invoice    -  62100023 RM
+0          Sold To:  CAL-COMP ELECTRONICS (THAILAND) PUBLIC            Ship To:  CAL-COMP ELECTRONICS (THAILAND) PUBLIC                           YAP LEE CHENG, WINNIE
+                     Company Limited                                             Company Limited
+                     191/54, 191/57, 18th CTI Tower,                             191/54, 191/57, 18th CTI Tower,
+                     Rachadapisek Road,Klongtoey Bangkok,                        Rachadapisek Road,Klongtoey Bangkok,
+                     10110, Thailand. Attn:Accounts Payable                      10110, Thailand. Attn:Accounts Payable
+0                    EX                                                          EX
+                     THAILAND                                                    THAILAND                                                         USD                  USD USD USD
+0          Tax ID:
+           Tax Cert:                                                              60 DAYS                       05/31/16           21202227                                    .
+   ------------------------------------------------------------------------------------------------------------------------        HO KOK HUA, KELVIN
+     Request Date          Customer P.O.                    F.O.B.              Ship :  36319110000D          *60DAYS                             Thailand
+       02/25/16      15120001008 (CS-L3)        EXW SINGAPORE                   Inst :  AGT BY AIR                                                SWYAP
+   ------------------------------------------------------------------------------------------------------------------------
+   Ln/Rq Dt     Description                       Item Number        UM Ship/Back/Cance      Price      Extended Price  Tax  Extended Cost  Pct
+   -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- --- --------------- ------
+            CNP OM325    771 89-4-M19 JAR  148802                    KG         75.000-        62.2800        4,671.00-  Y                     37                                                 D01_01
+                                                                                                                                                                          150.000- EA
+            96.5SN/3.0AG/0.5CU      0.50KG                                                                                                                                                        D01_02
+                                           PN:ZZSAC305N03                                                                                                                                         D01_03
+                                           148802                    ** OLD JDE# 148802 **                                                                                                        D01_03
+                 51209048SP            25.000-  KG                                                                                                                                                D10_01
+                 51215083SP            50.000-  KG                                                                                                                                                D10_01
+   .                                                                                                                                                                                              D03_01
+   L3                                                                                                                                                                                             D03_01
+   CS-division                                                                                                                                                                                    D03_01
+   .                                                                                                                                                                                              D03_01
+   TOTAL PKG : 3CTNS (B)                                                                                                                                                                          D03_01
+   ORIGIN : S'PORE                                                                                                                                                                                D03_01
+   .                                                                                                                                                                                              D03_01
+   ABOVE MATERIAL WILL SHIP UNDER EXPORT INVOICE: 52103203 RI                                                                                                                                     D03_01
+   DD: 21/DEC/2015 VIA SUN EXPRESS                                                                                                                                                                D03_01
+            CNP OM325    771 89-4-M19 JAR  148802                    KG         75.000         68.2800        5,121.00   Y                     42                                                 D01_01
+                                                                                                                                                                          150.000  EA
+            96.5SN/3.0AG/0.5CU      0.50KG                                                                                                                                                        D01_02
+                                           PN:ZZSAC305N03                                                                                                                                         D01_03
+                                           148802                    ** OLD JDE# 148802 **                                                                                                        D01_03
+   .                                                                                                                                                                                              D03_01
+   BEING DEBIT AGAINST INVOICE : 52103730RI DD : 21/DEC/2015                                                                                                                                      D03_01
+   .                                                                                                                                                                                              D03_01
+   DUE TO SHORT BILL USD6.00/KG ON THE SHIPMENT .                                                                                                                                                 D03_01
+   .                                                                                                                                                                                              D03_01
+   FOR INTER-PURPOSE ONLY                                                                                                                                                                         D03_01
+-
+-
+-
+                                                                                            Sales Tax      Total Order                                                                            T05_01
+   ------------------------------------------------------------------------------------------------------------------------
+  Terms   60 DAYS                        Net D.Dt 05/31/16             Tax Rt   .000              .00           450.00                                 USD                             USD
+                                                                                                                                                                                                  T05_03
+1                                                           Default Company                          Page Number-            1 E FSOI 21301101 CASCPYDTA                                          H01_01
+                                                             I N V O I C E                           Date       -     02/29/16 02/26/16
+                                                                                                     Customer   -     21301101 21301101
+                                                                                                     Brn/Plt    -       SAAPRF
+                                                                                                     Related PO -
+                                                                                                     Order Nbr  -  62100029 CA
+   *THIS INVOICE HAS BEEN EMAILED TO YOUR A/P DEPARTMENT*                                            Invoice    -  62100024 RM
+0          Sold To:  CELESTICA (THAILAND) LIMITED                      Ship To:  CELESTICA (THAILAND) LIMITED                                     YAP LEE CHENG, WINNIE
+                     49/18 Moo 5,Laemchabang Industrial                          49/18 Moo 5,Laemchabang Industrial
+                     Estate, Tungsukhla, Sriracha                                Estate, Tungsukhla, Sriracha
+                     Chonburi 20230,                                             Chonburi 20230,
+                     Thailand. Attn: Accounts Payable                            Thailand. Attn: Accounts Payable
+0                    EX                                                          EX
+                     THAILAND                                                    THAILAND                                                         USD                  USD USD USD
+0          Tax ID:
+           Tax Cert:                                                              60 DAYS                       05/31/16           21202227                                    .
+   ------------------------------------------------------------------------------------------------------------------------        HO KOK HUA, KELVIN
+     Request Date          Customer P.O.                    F.O.B.              Ship :  36319110000D      * 60 DAYS                               Thailand
+       02/29/16      3400175347                 EXW SINGAPORE                   Inst :  AGT BY AIR  (EX-FTY)                                      SWYAP
+   ------------------------------------------------------------------------------------------------------------------------
+   Ln/Rq Dt     Description                       Item Number        UM Ship/Back/Cance      Price      Extended Price  Tax  Extended Cost  Pct
+   -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- --- --------------- ------
+            CNP OM338PT 771 88.5-3-M15 JAR 149475                    KG        250.000-        66.9700       16,742.50-  Y                    100                                                 D01_01
+                                                                                                                                                                          500.000- EA
+            96.5SN/3.0AG/0.5CU      0.50KG                                                                                                                                                        D01_02
+                                           *PN : SOLD00051                                                                                                                                        D01_03
+                                           149475                    ** OLD JDE# 149475 **                                                                                                        D01_03
+   ALPHA OM-338-PT Solder Paste 96.5SN/3.0AG/0.5CU 88.5-3-M15 JAR/0.50KG                                                                                                                          D03_01
+            CNP OM338PT 771 88.5-3-M15 JAR 149475                    KG        250.000         65.2700       16,317.50   Y                    100                                                 D01_01
+                                                                                                                                                                          500.000  EA
+            96.5SN/3.0AG/0.5CU      0.50KG                                                                                                                                                        D01_02
+                                           *PN : SOLD00051                                                                                                                                        D01_03
+                                           149475                    ** OLD JDE# 149475 **                                                                                                        D01_03
+   ALPHA OM-338-PT Solder Paste 96.5SN/3.0AG/0.5CU 88.5-3-M15 JAR/0.50KG                                                                                                                          D03_01
+   .                                                                                                                                                                                              D03_01
+   BEING CREDIT AGAINST INV : 62100656RI DD:15/FEB & 62100766RI                                                                                                                                   D03_01
+   DD: 22/FEB/16                                                                                                                                                                                  D03_01
+   .                                                                                                                                                                                              D03_01
+   FEB'16 QUOTED PRICE IS USD65.27/KG                                                                                                                                                             D03_01
+   .                                                                                                                                                                                              D03_01
+   .                                                                                                                                                                                              D03_01
+   C/O: AGILITY (VIA AIR FREIGHT)                                                                                                                                                                 D03_01
+-
+-
+-
+-
+-
+0                                                                                           Sales Tax      Total Order                                                                            T05_01
+   ------------------------------------------------------------------------------------------------------------------------
+  Terms   60 DAYS                        Net D.Dt 05/31/16             Tax Rt   .000              .00           425.00-                                USD                             USD
+                                                                                                                                                                                                  T05_03

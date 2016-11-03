@@ -1,0 +1,70 @@
+Company_address 4084 Gregory Lane\nLouisville, KY 40299\n502-594-0672  CurrentDate November 28, 2014
+accountNumber 028586  customerCode 4754875 
+
+code 0123456789ABCD  code2 9876543210CDAB
+contact Adam C. Carpenter 1883 Cambridge Court Phoenix,\n AZ 85034
+
+service longdistance $27.87 localtelephone $32.56 equipament $15.00 taxes $4.20 graphic 0 180 1 6 120 100 156 143 91 191 graphic_classes 60 SMS, 751 Mobile, 923 Local, 289 Data, 478 Taxes
+
+trans  date 12/29    description Local Call 
+number 281-276-8613   length 1:18   rate 1  charges 0.40
+	
+trans  date 12/29    description SMS
+number 715-914-5500   length -      rate 1  charges 0.10
+	
+trans date 12/29     description Mobile phone
+number 715-344-5670  length 7:14    rate 1  charges 1.23
+
+trans date 12/29     description Local Call
+number 281-276-8613  length 1:08    rate 1  charges 0.40
+	
+trans date 12/29     description SMS
+number 715-914-5500  length -       rate 1  charges 0.10
+	
+trans date 12/11     description Long Distance
+number 444-324-5706  length 27:14   rate 4  charges 17.23
+
+trans date 12/29     description Local Call
+number 281-276-8613  length 1:08    rate 1  charges 0.40
+	
+trans date 12/29     description SMS
+number 715-344-5670  length -       rate 1  charges 0.10
+	
+trans date 12/29     description Mobile phone
+number 715-344-5670  length 7:14    rate 1  charges 1.23
+
+trans date 12/29     description Local Call
+number 281-276-8613  length 1:08    rate 1  charges 0.40
+	
+trans date 12/29     description SMS
+number 715-344-5670  length -       rate 1  charges 0.10
+	
+trans date 12/29     description Mobile phone
+number 715-344-5670  length 7:14    rate 1  charges 1.23
+
+trans date 12/29     description Local Call
+number 281-276-8613  length 1:08    rate 1  charges 0.40
+	
+trans date 12/29     description SMS
+number 715-344-5670  length -       rate 1  charges 0.10
+	
+trans date 12/29     description Mobile phone
+number 715-344-5670  length 7:14    rate 1  charges 1.23
+
+trans date 12/29     description Local Call
+number 281-276-8613  length 1:08    rate 1  charges 0.40
+	
+trans date 12/29     description SMS
+number 715-344-5670  length -       rate 1  charges 0.10
+	
+trans date 12/29     description Mobile phone
+number 715-344-5670  length 7:14    rate 1  charges 1.23
+
+trans date 12/29     description Lon Distance
+number 555-566-6138  length 14:08   rate 4  charges 9.40
+	
+offer 
+name Adam,
+offer We have a special Premium Sports Channels offer for you!
+Offerdetail Rugby, Football, Basketball, Hockey and much more!
+OfferPrice $19.99 per month

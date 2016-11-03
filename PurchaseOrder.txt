@@ -1,0 +1,484 @@
+1     *****  Aqua    Project  ********            SARIA INDUSTRIES                                  Page       -            1
+                 AQUA                             Varx  Manufacturer                                Date       -     03/07/03
+     Order Return Receipt                         56380 Stanford                                    Client     -         2403
+                                                                                                    Store      -          ADV
+
+                                                                                                    Order Num a-       789544
+
+                                                                                                    Order Num  -   3000077 SD
+                                                                                                    Invoice    -
+       Invoice   :  SARIA INDUSTRIES                                  Delivery :  SARIA INDUSTRIES
+                    Varx  Manufacturer                                            Varx  Manufacturer
+                    56380 Stanford                                                56380 Stanford
+
+
+
+
+ Pmnt
+        30 j fdm.                   Dte exchange 31/08/03 Manual Check
+          ID txe:
+ John Doe                    01 45 11 55 55       John Doe                 01 45 11 55 55
+          Note exo:                      Matt Ilford                     03/07/03 03/07/03
+  ------------------------------------------------------------------------------------------------------------------------
+    Order Date            Ord.     Clts                    C.L                 Info :
+      03/07/03      NO 123 456/9B                                           .  Deliv.:
+  ------------------------------------------------------------------------------------------------------------------------
+  Ln/Dt ex     Description                       Code article       UM Exp./Rel./Annul      Price      Total Price     Tax
+  -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- ---
+    1.000
+           Product treatment              AQUA    1110              KG E         1000         8.75           8,750.00   Y
+  15/07/03
+           Boiler                                                                            Per   KG Kilogram
+
+    2.000
+           Product treatment              AQUA    1410              KG E         1600         2.48           3,968.00   Y
+  15/07/03
+           Boiler                                                                            Per   KG Kilogram
+
+    3.000
+           Nofoam AMB 60                  AQUA    3513              KG E         3600        25.36          91,296.00   Y
+  15/07/03
+                                                                                             Per   KG Kilogram
+
+    4.000
+           Aqua    3210                   AQUA    3210              KG E         4500        22.28         100,260.00   Y
+  15/07/03
+                                                                                             Per   KG Kilogram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Total                                  Txe/vtes       Total cmde
+  ------------------------------------------------------------------------------------------------------------------------
+
+                                                  204,274.00          Tx txe 19.600        40,037.71       244,311.71
+1     *****  Aqua    Project  ********            NAFTEC                                            Page       -            1
+                 AQUA                             DEW REFINERY                                      Date       -     03/07/03
+     Order Return Receipt                         PO 37                                             Client     -         2809
+                                                  ARZEW 31200                                       Store      -          ADV
+
+                                                                                                    Order Num a-      DP00353
+
+                                                                                                   Order Num  -   3000078 SD
+                                                                                                    Invoice    -
+          Invoice : NAFTEC                                            Delivery :  NAFTEC
+                    DEW REFINERY                                                  DEW REFINERY
+                    PO 37                                                         PO 37
+                    ARZEW 31200                                                   ARZEW 31200
+
+
+
+ Pmnt
+        60 j fdm le 10              Dte exchange 10/10/03 Diferred payment       CLT
+          ID txe:
+
+          Note exo:                      Jean Smith                03/07/03 03/07/03  *
+  ------------------------------------------------------------------------------------------------------------------------
+    Order Date            Ord.     Clts                    C.L                 Info :
+      03/07/03      no 3206                                                 .  Deliv.:
+  ------------------------------------------------------------------------------------------------------------------------
+  Ln/Dt ex     Description                       Code article       UM Exp./Rel./Annul      Price      Total Price     Tax
+  -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- ---
+    1.000
+           Refrigeration System           STABINOX NPGM11           KG E        20400         2.40          48,960.00   Y
+  16/07/03
+           Container of 1200 kg                                                              Per   D2 Container of 1200 kg
+
+  CODE ONU UN3264/17C
+    2.000
+           Refrigeration System           DISPERSANT AP 91          KG E         2500         2.99           7,475.00   Y
+  16/07/03
+           Product Class 8                                                                   Per   B3 Container of 25 kg
+
+    3.000
+           Biocide                        BIOCIDE SA 245            KG E         1000         3.63           3,630.00   Y
+  16/07/03
+           Product class 9                                                                   Per   B3 Container of 25 kg
+
+    4.000
+           Freight                        TRANSPORT                 UN E            1     1,850.00           1,850.00   Y
+  16/07/03
+           Unit
+
+
+
+
+
+
+                                                    Total                                  Txe/vtes       Total cmde
+  ------------------------------------------------------------------------------------------------------------------------
+
+                                                  61,915.00           Tx txe  0.000             0.00        61,915.00
+1     *****  Aqua    Project  ********            SOMEC                                             Page       -            1
+                 AQUA                             23,  Buchelay Street                              Date       -     03/07/03
+     Order Return Receipt                         90210 Los Angeles                                 Client     -         2463
+                                                                                                    Store      -          ADV
+
+                                                                                                    Order Num a-      4339443
+
+                                                                                                    Order Num  -   3000079 SD
+                                                                                                    Invoice    -
+          Invoice : SOMEC                                             Delivery :  SOMEC
+                    23,  Buchelay Street                                          23.  Rue de Buchelay
+                    90210 Los Angeles                                             90210 Los Angeles
+
+
+
+
+ Pmnt
+        60 j fdm.                   Dte exchange 30/09/03 Diferred payment       CLT
+          ID txe:
+
+          Note exo:                      Sector Ecs - Distributors    03/07/03 03/07/03
+  ------------------------------------------------------------------------------------------------------------------------
+    Order Date            Ord.     Clts                    C.L                 Info :
+      03/07/03      month of june                                           .  Deliv.:
+  ------------------------------------------------------------------------------------------------------------------------
+  Ln/Dt ex     Description                       Code article       UM Exp./Rel./Annul      Price      Total Price     Tax
+  -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- ---
+    1.000
+           Monthly Subscription   ECS      MONTHLY SUBSCRIPTION ECS UN E         1359         0.27441          372.92   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+    2.000
+           Monthly Subscription   ECS      MONTHLY SUBSCRIPTION ECS UN E          569         0.27441          156.14   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+    3.000
+           Monthly Subscription   ECS      MONTHLY SUBSCRIPTION ECS UN E          304         0.27441           83.42   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+    4.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          126         0.27441           34.58   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+    5.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          274         0.27441           75.19   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+    6.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          620         0.27441          170.13   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+    7.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          172         0.27441           47.20   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+    8.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E           30         0.27441            8.23   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+1     *****  Aqua    Project  ********            SOMEC                                             Page       -            2
+                 AQUA                             23,  Buchelay Street                              Date       -     03/07/03
+     Order Return Receipt                         90210 Los Angeles                                 Client     -         2463
+                                                                                                    Store      -          ADV
+
+                                                                                                    Order Num a-
+
+                                                                                                    Order Num  -   3000079 SD
+                                                                                                    Invoice    -
+          Invoice : SOMEC                                             Delivery :  SOMEC
+                    23,  Buchelay Street                                          23.  Rue de Buchelay
+                    90210 Los Angeles                                             90210 Los Angeles
+
+
+
+
+ Pmnt
+        60 j fdm.                   Dte exchange 30/09/03 Diferred payment       CLT
+          ID txe:
+
+          Note exo:                      Sector Ecs - Distributors    03/07/03 03/07/03
+  ------------------------------------------------------------------------------------------------------------------------
+    Order Date            Ord.     Clts                    C.L                 Info :
+      03/07/03      month of june                                           .  Deliv.:
+  ------------------------------------------------------------------------------------------------------------------------
+  Ln/Dt ex     Description                       Code article       UM Exp./Rel./Annul      Price      Total Price     Tax
+  -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- ---
+    9.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E           56         0.27441           15.37   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   10.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E           66         0.27441           18.11   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   11.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          326         0.27441           89.46   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   12.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E           43         0.27441           11.80   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   13.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          163         0.27441           44.73   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   14.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          560         0.27441          153.67   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   15.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          102         0.27441           27.99   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   16.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E           10         0.27441            2.74   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+1     *****  Aqua    Project  ********            SOMEC                                             Page       -            3
+                 AQUA                             23,  Buchelay Street                              Date       -     03/07/03
+     Order Return Receipt                         90210 Los Angeles                                 Client     -         2463
+                                                                                                    Store      -          ADV
+
+                                                                                                    Order Num a-
+
+                                                                                                    Order Num  -   3000079 SD
+                                                                                                    Invoice    -
+          Invoice : SOMEC                                             Delivery :  SOMEC
+                    23,  Buchelay Street                                          23,  Rue de Buchelay
+                    90210 Los Angeles                                             90210 Los Angeles
+
+
+
+
+ Pmnt
+        60 j fdm.                   Dte exchange 30/09/03 Diferred payment       CLT
+          ID txe:
+
+          Note exo:                      Sector Ecs - Distributors    03/07/03 03/07/03
+  ------------------------------------------------------------------------------------------------------------------------
+    Order Date            Ord.     Clts                    C.L                 Info :
+      03/07/03      month of june                                           .  Deliv.:
+  ------------------------------------------------------------------------------------------------------------------------
+  Ln/Dt ex     Description                       Code article       UM Exp./Rel./Annul      Price      Total Price     Tax
+  -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- ---
+   17.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          416         0.27441          114.15   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   18.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          614         0.27441          168.49   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   19.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          545         0.27441          149.55   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   20.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          589         0.27441          161.63   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   21.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          116         0.27441           31.83   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   22.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          510         0.27441          139.95   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   23.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          458         0.27441          125.68   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   24.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          430         0.27441          118.00   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+1     *****  Aqua    Project  ********            SOMEC                                             Page       -            4
+                 AQUA                             23,  Buchelay Street                              Date       -     03/07/03
+     Order Return Receipt                         90210 Los Angeles                                 Client     -         2463
+                                                                                                    Store      -          ADV
+
+                                                                                                    Order Num a-
+
+                                                                                                    Order Num  -   3000079 SD
+                                                                                                    Invoice    -
+          Invoice : SOMEC                                             Delivery :  SOMEC
+                    23,  Buchelay Street                                          23,  Rue de Buchelay
+                    90210 Los Angeles                                             90210 Los Angeles
+
+
+
+
+ Pmnt
+        60 j fdm.                   Dte exchange 30/09/03 Diferred payment       CLT
+          ID txe:
+
+          Note exo:                      Sector Ecs - Distributors    03/07/03 03/07/03
+  ------------------------------------------------------------------------------------------------------------------------
+    Order Date            Ord.     Clts                    C.L                 Info :
+      03/07/03      month of june                                           .  Deliv.:
+  ------------------------------------------------------------------------------------------------------------------------
+  Ln/Dt ex     Description                       Code article       UM Exp./Rel./Annul      Price      Total Price     Tax
+  -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- ---
+   25.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          554         0.27441          152.02   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   26.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E           99         0.27441           27.17   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   27.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          222         0.27441           60.92   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   28.000
+           Monthly Subscription ECS        MONTHLY SUBSCRIPTION ECS UN E          111         0.27441           30.46   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   29.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          112         0.27441           30.73   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   30.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          499         0.27441          136.93   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   31.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          378         0.27441          103.73   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   32.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          459         0.27441          125.95   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+1     *****  Aqua    Project  ********            SOMEC                                             Page       -            5
+                 AQUA                             23,  Buchelay Street                              Date       -     03/07/03
+     Order Return Receipt                         90210 Los Angeles                                 Client     -         2463
+                                                                                                    Store      -          ADV
+
+                                                                                                    Order Num a-
+
+                                                                                                    Order Num  -   3000079 SD
+                                                                                                    Invoice    -
+          Invoice : SOMEC                                             Delivery :  SOMEC
+                    23,  Buchelay Street                                          23.  Rue de Buchelay
+                    90210 Los Angeles                                             90210 Los Angeles
+
+
+
+
+ Pmnt
+        60 j fdm.                   Dte exchange 30/09/03 Diferred payment       CLT
+          ID txe:
+
+          Note exo:                      Sector Ecs - Distributors    03/07/03 03/07/03
+  ------------------------------------------------------------------------------------------------------------------------
+    Order Date            Ord.     Clts                    C.L                 Info :
+      03/07/03      month of june                                           .  Deliv.:
+  ------------------------------------------------------------------------------------------------------------------------
+  Ln/Dt ex     Description                       Code article       UM Exp./Rel./Annul      Price      Total Price     Tax
+  -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- ---
+
+   33.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          204         0,27441           55,98   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   34.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          130         0,27441           35,67   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   35.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E           38         0,27441           10,43   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   36.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          621         0,27441          170,41   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   37.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          220         0,27441           60,37   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   38.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          333         0,27441           91,38   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+   39.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          133         0,27441           36,50   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+1     *****  Aqua    Project  ********            SOMEC                                             Page       -            6
+                 AQUA                             23,  Buchelay Street                              Date       -     03/07/03
+     Order Return Receipt                         90210 Los Angeles                                 Client     -         2463
+                                                                                                    Store      -          ADV
+
+                                                                                                    Order Num a-
+
+                                                                                                    Order Num  -   3000079 SD
+                                                                                                    Invoice    -
+          Invoice : SOMEC                                             Delivery :  SOMEC
+                    23,  Buchelay Street                                          23,  Rue de Buchelay
+                    90210 Los Angeles                                             90210 Los Angeles
+
+
+
+
+ Pmnt
+        60 j fdm.                   Dte exchange 30/09/03 Diferred payment       CLT
+          ID txe:
+
+          Note exo:                      Sector Ecs - Distributors    03/07/03 03/07/03
+  ------------------------------------------------------------------------------------------------------------------------
+    Order Date            Ord.     Clts                    C.L                 Info :
+      03/07/03      month of june                                           .  Deliv.:
+  ------------------------------------------------------------------------------------------------------------------------
+  Ln/Dt ex     Description                       Code article       UM Exp./Rel./Annul      Price      Total Price     Tax
+  -------- ------------------------------ ------------------------- -- --------------- --------------- --------------- ---
+   40.000
+           Monthly Subscription ECS       MONTHLY SUBSCRIPTION ECS  UN E          100         0.27441           27.44   Y
+  16/07/03
+           Unit                                                                             Per   UN Unit
+
+                                                    Total                                  Txe/vtes       Total cmde
+  ------------------------------------------------------------------------------------------------------------------------
+
+                                                    3,477.05          Tx txe 19.600           681.49         4,158.54
