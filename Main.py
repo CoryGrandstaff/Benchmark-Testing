@@ -12,8 +12,8 @@ import DocPathPortale
 import ExactechCertificate
 import ExactechCertificate2
 import ExactechInvoice
-import MultiPage
-import MultiPage2
+import OOIDAMultiPage
+import OOIDAMultiPage2
 import PurchaseOrder
 import TerrebonneCheck
 import WKVariableText
@@ -67,7 +67,6 @@ def get_record_count():
     return record_count
 
 def print_data_file(description_choice, record_count, multi_record_choice):
-    for i in range(int(record_count)):
         if description_choice == 'AlentInvoice':
             AlentInvoice.display_file(record_count)
         if description_choice == 'ApplePay':
@@ -83,9 +82,9 @@ def print_data_file(description_choice, record_count, multi_record_choice):
         if description_choice == 'ExactechInvoice':
             ExactechInvoice.display_file(record_count)
         if description_choice == 'OOIDAMultiPage' and multi_record_choice == '1':
-            MultiPage.display_file(record_count)
+            OOIDAMultiPage.display_file(record_count)
         if description_choice == 'OOIDAMultiPage' and multi_record_choice == '2':
-            MultiPage2.display_file(record_count)
+            OOIDAMultiPage2.display_file(record_count)
         if description_choice == 'PurchaseOrder':
             PurchaseOrder.display_file(record_count)
         if description_choice == 'TerrebonneCheck':

@@ -2,207 +2,240 @@ import itertools
 import random
 from random import randint
 
+
 def display_file(record_count):
-    generate_details(record_count)
+    record_number = 1
+    while record_number <= int(record_count):
+        header_list = [header1, header2, header3, header4]
+        random.choice(header_list)(record_count)
+        with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.write("Record Number:" + str(record_number))
+            output_file.write('\n')
+        second_header_list = [header5, header6, header7, header8]
+        random.choice(second_header_list)(record_count)
+        details_list = [detail1, detail2, detail3, detail4, detail5, detail6, detail7, detail8]
+        for x in range(randint(1, 8)):
+            random.choice(details_list)(record_count)
+        footer_list = [footer1, footer2, footer3, footer4]
+        random.choice(footer_list)(record_count)
+        record_number += 1
 
-def generate_details(record_count):
-    header_list = [get_first_header, get_second_header, get_third_header, get_fourth_header]
-    random.choice(header_list)(record_count)
-    details_list = [get_first_detail, get_second_detail, get_third_detail, get_fourth_detail, get_fifth_detail,
-                    get_sixth_detail, get_seventh_detail, get_eighth_detail]
-    for x in range(randint(1, 8)):
-        random.choice(details_list)(record_count)
-    footer_list = [get_first_footer, get_second_footer, get_third_footer, get_fourth_footer]
-    random.choice(footer_list)(record_count)
 
-def get_first_header(record_count):
-    first_header = []
-
-    with open('AlentInvoice.txt', 'rt') as input_file:
-        for each_line in itertools.islice(input_file, 0, 22):
-            first_header.append(each_line)
-        for element in first_header:
-            print(element, end="")
-
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(first_header)
-
-def get_second_header(record_count):
-    second_header = []
+def header1(record_count):
+    header1 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
-        for each_line in itertools.islice(input_file, 46, 67):
-            second_header.append(each_line)
-        for element in second_header:
-            print(element, end="")
+        for each_line in itertools.islice(input_file, 0, 7):
+            header1.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(second_header)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(header1)
 
-def get_third_header(record_count):
-    third_header = []
 
-    with open('AlentInvoice.txt', 'rt') as input_file:
-        for each_line in itertools.islice(input_file, 93, 115):
-            third_header.append(each_line)
-        for element in third_header:
-            print(element, end="")
-
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(third_header)
-
-def get_fourth_header(record_count):
-    fourth_header = []
+def header2(record_count):
+    header2 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
-        for each_line in itertools.islice(input_file, 149, 171):
-            fourth_header.append(each_line)
-        for element in fourth_header:
-            print(element, end="")
+        for each_line in itertools.islice(input_file, 46, 53):
+            header2.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(fourth_header)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(header2)
 
-def get_first_detail(record_count):
-    first_detail = []
+
+def header3(record_count):
+    header3 = []
+
+    with open('AlentInvoice.txt', 'rt') as input_file:
+        for each_line in itertools.islice(input_file, 93, 100):
+            header3.append(each_line)
+
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(header3)
+
+
+def header4(record_count):
+    header4 = []
+
+    with open('AlentInvoice.txt', 'rt') as input_file:
+        for each_line in itertools.islice(input_file, 149, 156):
+            header4.append(each_line)
+
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(header4)
+
+
+def header5(record_count):
+    header5 = []
+
+    with open('AlentInvoice.txt', 'rt') as input_file:
+        for each_line in itertools.islice(input_file, 7, 22):
+            header5.append(each_line)
+
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(header5)
+
+
+def header6(record_count):
+    header6 = []
+
+    with open('AlentInvoice.txt', 'rt') as input_file:
+        for each_line in itertools.islice(input_file, 53, 67):
+            header6.append(each_line)
+
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(header6)
+
+
+def header7(record_count):
+    header7 = []
+
+    with open('AlentInvoice.txt', 'rt') as input_file:
+        for each_line in itertools.islice(input_file, 100, 115):
+            header7.append(each_line)
+
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(header7)
+
+
+def header8(record_count):
+    header8 = []
+
+    with open('AlentInvoice.txt', 'rt') as input_file:
+        for each_line in itertools.islice(input_file, 156, 171):
+            header8.append(each_line)
+
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(header8)
+
+
+def detail1(record_count):
+    detail1 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 22, 26):
-            first_detail.append(each_line)
-        for element in first_detail:
-            print(element, end="")
+            detail1.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(first_detail)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail1)
 
-def get_second_detail(record_count):
-    second_detail = []
+
+def detail2(record_count):
+    detail2 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 26, 42):
-            second_detail.append(each_line)
-        for element in second_detail:
-            print(element, end="")
+            detail2.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(second_detail)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail2)
 
-def get_third_detail(record_count):
-    third_detail = []
+
+def detail3(record_count):
+    detail3 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 67, 73):
-            third_detail.append(each_line)
-        for element in third_detail:
-            print(element, end="")
+            detail3.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(third_detail)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail3)
 
-def get_fourth_detail(record_count):
-    fourth_detail = []
+
+def detail4(record_count):
+    detail4 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
-        for each_line in itertools.islice(input_file, 73, 89 ):
-            fourth_detail.append(each_line)
-        for element in fourth_detail:
-            print(element, end="")
+        for each_line in itertools.islice(input_file, 73, 89):
+            detail4.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(fourth_detail)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail4)
 
-def get_fifth_detail(record_count):
-    fifth_detail = []
+
+def detail5(record_count):
+    detail5 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 115, 131):
-            fifth_detail.append(each_line)
-        for element in fifth_detail:
-            print(element, end="")
+            detail5.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(fifth_detail)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail5)
 
-def get_sixth_detail(record_count):
-    sixth_detail = []
+
+def detail6(record_count):
+    detail6 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 131, 145):
-            sixth_detail.append(each_line)
-        for element in sixth_detail:
-            print(element, end="")
+            detail6.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(sixth_detail)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail6)
 
-def get_seventh_detail(record_count):
-    seventh_detail = []
+
+def detail7(record_count):
+    detail7 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 171, 177):
-            seventh_detail.append(each_line)
-        for element in seventh_detail:
-            print(element, end="")
+            detail7.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(seventh_detail)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail7)
 
-def get_eighth_detail(record_count):
-    eighth_detail = []
+
+def detail8(record_count):
+    detail8 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
-        for each_line in itertools.islice(input_file, 177, 196 ):
-            eighth_detail.append(each_line)
-        for element in eighth_detail:
-            print(element, end="")
+        for each_line in itertools.islice(input_file, 177, 196):
+            detail8.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(eighth_detail)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail8)
 
-def get_first_footer(record_count):
-    first_footer = []
+
+def footer1(record_count):
+    footer1 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 42, 46):
-            first_footer.append(each_line)
-        for element in first_footer:
-            print(element, end="")
+            footer1.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(first_footer)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(footer1)
 
-def get_second_footer(record_count):
-    second_footer = []
+
+def footer2(record_count):
+    footer2 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 89, 93):
-            second_footer.append(each_line)
-        for element in second_footer:
-            print(element, end="")
+            footer2.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(second_footer)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(footer2)
 
-def get_third_footer(record_count):
-    third_footer = []
+
+def footer3(record_count):
+    footer3 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 145, 149):
-            third_footer.append(each_line)
-        for element in third_footer:
-            print(element, end="")
+            footer3.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(third_footer)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(footer3)
 
-def get_fourth_footer(record_count):
-    fourth_footer = []
+
+def footer4(record_count):
+    footer4 = []
 
     with open('AlentInvoice.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 196, 200):
-            fourth_footer.append(each_line)
-        for element in fourth_footer:
-            print(element, end="")
+            footer4.append(each_line)
 
-    with open ("AlentInvoice" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(fourth_footer)
+    with open("AlentInvoice" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(footer4)
