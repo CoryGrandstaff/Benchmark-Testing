@@ -2,268 +2,248 @@ import itertools
 import random
 from random import randint
 
+
 def display_file(record_count):
-    generate_details(record_count)
+    record_number = 1
+    while record_number <= int(record_count):
+        with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.write("Record Number:" + str(record_number))
+            output_file.write('\n')
+        header1(record_count)
+        details_list = [detail1, detail2, detail3, detail4, detail5, detail6, detail7, detail8, detail9, detail10,
+                    detail11, detail12, detail13, detail14, detail15, detail16, detail17, detail18, detail19]
+        for x in range(randint(1, 19)):
+            random.choice(details_list)(record_count)
+        footer1(record_count)
+        record_number += 1
 
-def generate_details(record_count):
-    get_header(record_count)
-    details_list = [get_first_detail, get_second_detail, get_third_detail, get_fourth_detail, get_fifth_detail,
-                    get_sixth_detail, get_seventh_detail, get_eighth_detail, get_ninth_detail, get_tenth_detail,
-                    get_eleventh_detail, get_twelfth_detail, get_thirteenth_detail, get_fourteenth_detail,
-                    get_fifteenth_detail, get_sixteenth_detail, get_seventeenth_detail, get_eighteenth_detail,
-                    get_nineteenth_detail]
-    for x in range(randint(1, 19)):
-        random.choice(details_list)(record_count)
-    get_footer(record_count)
-
-def get_header(record_count):
-    header = []
+def header1(record_count):
+    header1 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 0, 8):
-            header.append(each_line)
-        for element in header:
-            print(element, end="")
+            header1.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(header)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(header1)
 
-def get_first_detail(record_count):
-    first_detail = []
+
+def detail1(record_count):
+    detail1 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 8, 11):
-            first_detail.append(each_line)
-        for element in first_detail:
-            print(element, end="")
+            detail1.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(first_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail1)
 
-def get_second_detail(record_count):
-    second_detail = []
+
+def detail2(record_count):
+    detail2 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 11, 14):
-            second_detail.append(each_line)
-        for element in second_detail:
-            print(element, end="")
+            detail2.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(second_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail2)
 
-def get_third_detail(record_count):
-    third_detail = []
+
+def detail3(record_count):
+    detail3 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 14, 17):
-            third_detail.append(each_line)
-        for element in third_detail:
-            print(element, end="")
+            detail3.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(third_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail3)
 
-def get_fourth_detail(record_count):
-    fourth_detail = []
+
+def detail4(record_count):
+    detail4 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 17, 20):
-            fourth_detail.append(each_line)
-        for element in fourth_detail:
-            print(element, end="")
+            detail4.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(fourth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail4)
 
-def get_fifth_detail(record_count):
-    fifth_detail = []
+
+def detail5(record_count):
+    detail5 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 20, 23):
-            fifth_detail.append(each_line)
-        for element in fifth_detail:
-            print(element, end="")
+            detail5.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(fifth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail5)
 
-def get_sixth_detail(record_count):
-    sixth_detail = []
+
+def detail6(record_count):
+    detail6 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 23, 26):
-            sixth_detail.append(each_line)
-        for element in sixth_detail:
-            print(element, end="")
+            detail6.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(sixth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail6)
 
-def get_seventh_detail(record_count):
-    seventh_detail = []
+
+def detail7(record_count):
+    detail7 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 26, 29):
-            seventh_detail.append(each_line)
-        for element in seventh_detail:
-            print(element, end="")
+            detail7.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(seventh_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail7)
 
-def get_eighth_detail(record_count):
-    eighth_detail = []
+
+def detail8(record_count):
+    detail8 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 29, 32):
-            eighth_detail.append(each_line)
-        for element in eighth_detail:
-            print(element, end="")
+            detail8.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(eighth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail8)
 
-def get_ninth_detail(record_count):
-    ninth_detail = []
+
+def detail9(record_count):
+    detail9 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 32, 35):
-            ninth_detail.append(each_line)
-        for element in ninth_detail:
-            print(element, end="")
+            detail9.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(ninth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail9)
 
-def get_tenth_detail(record_count):
-    tenth_detail = []
+
+def detail10(record_count):
+    detail10 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 35, 38):
-            tenth_detail.append(each_line)
-        for element in tenth_detail:
-            print(element, end="")
+            detail10.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(tenth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail10)
 
-def get_eleventh_detail(record_count):
-    eleventh_detail = []
+
+def detail11(record_count):
+    detail11 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 38, 41):
-            eleventh_detail.append(each_line)
-        for element in eleventh_detail:
-            print(element, end="")
+            detail11.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(eleventh_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail11)
 
-def get_twelfth_detail(record_count):
-    twelfth_detail = []
+
+def detail12(record_count):
+    detail12 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 41, 44):
-            twelfth_detail.append(each_line)
-        for element in twelfth_detail:
-            print(element, end="")
+            detail12.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(twelfth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail12)
 
-def get_thirteenth_detail(record_count):
-    thirteenth_detail = []
+
+def detail13(record_count):
+    detail13 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 44, 47):
-            thirteenth_detail.append(each_line)
-        for element in thirteenth_detail:
-            print(element, end="")
+            detail13.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(thirteenth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail13)
 
-def get_fourteenth_detail(record_count):
-    fourteenth_detail = []
+
+def detail14(record_count):
+    detail14 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 47, 50):
-            fourteenth_detail.append(each_line)
-        for element in fourteenth_detail:
-            print(element, end="")
+            detail14.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(fourteenth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail14)
 
-def get_fifteenth_detail(record_count):
-    fifteenth_detail = []
+
+def detail15(record_count):
+    detail15 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 50, 53):
-            fifteenth_detail.append(each_line)
-        for element in fifteenth_detail:
-            print(element, end="")
+            detail15.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(fifteenth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail15)
 
-def get_sixteenth_detail(record_count):
-    sixteenth_detail = []
+
+def detail16(record_count):
+    detail16 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 53, 56):
-            sixteenth_detail.append(each_line)
-        for element in sixteenth_detail:
-            print(element, end="")
+            detail16.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(sixteenth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail16)
 
-def get_seventeenth_detail(record_count):
-    seventeenth_detail = []
+
+def detail17(record_count):
+    detail17 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 56, 59):
-            seventeenth_detail.append(each_line)
-        for element in seventeenth_detail:
-            print(element, end="")
+            detail17.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(seventeenth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail17)
 
-def get_eighteenth_detail(record_count):
-    eighteenth_detail = []
+
+def detail18(record_count):
+    detail18 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 59, 62):
-            eighteenth_detail.append(each_line)
-        for element in eighteenth_detail:
-            print(element, end="")
+            detail18.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(eighteenth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail18)
 
-def get_nineteenth_detail(record_count):
-    nineteenth_detail = []
+
+def detail19(record_count):
+    detail19 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 62, 65):
-            nineteenth_detail.append(each_line)
-        for element in nineteenth_detail:
-            print(element, end="")
+            detail19.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(nineteenth_detail)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(detail19)
 
-def get_footer(record_count):
-    footer = []
+
+def footer1(record_count):
+    footer1 = []
 
     with open('DocPathPortale.txt', 'rt') as input_file:
         for each_line in itertools.islice(input_file, 65, 70):
-            footer.append(each_line)
-        for element in footer:
-            print(element, end="")
+            footer1.append(each_line)
 
-    with open ("DocPathPortale" + record_count + "Records.txt", "a") as output_file:
-            output_file.writelines(footer)
+    with open("DocPathPortale" + "(" + record_count + ")" + "Records.txt", "a") as output_file:
+            output_file.writelines(footer1)
+            output_file.writelines('\n')
